@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathaba
 - 👀 I’m interested in data analysis and machine learning, API's and web services development, reading and leaning about people 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on open source projects (backend development)
+- 🤝 I’m looking to collaborate on open source projects (backend development)
 - 📫 How to reach me - mathaba1919@gmail.com
 
 <!---
