@@ -1,5 +1,5 @@
 
-<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=mathaba.mathaba&left_color=red&right_color=green" />
+<img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=mathaba.mathaba&left_color=#7dcefa&right_color=#f67280" />
 
 - 👋 Hi, I’m @mathaba
 - 👀 I’m interested in data analysis and machine learning, API's and web services development, reading and leaning about people 
