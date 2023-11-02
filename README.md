@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-<hr>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathaba&" alt="mathaba" /></p>
 
+<br>
+
+<hr>
 
 ![snake gif](https://github.com/mathaba/mathaba/blob/output/github-contribution-grid-snake.gif)
