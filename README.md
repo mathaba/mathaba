@@ -1,6 +1,8 @@
 
 <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=mathaba.mathaba&left_color=#7dcefa&right_color=#f67280" />
 
+<p align="left"> <a href="https://twitter.com/@mathabam" target="blank"><img src="https://img.shields.io/twitter/follow/@mathabam?logo=twitter&style=for-the-badge" alt="@mathabam" /></a> </p>
+
 - 👋 Hi, I’m @mathaba
 - 👀 I’m interested in data analysis and machine learning, API's and web services development, reading and leaning about people 
 - 🌱 I’m currently learning ...
@@ -11,17 +13,18 @@
 mathaba/mathaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
+<br>
+<hr>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathaba" alt="mathaba" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mathabam" target="blank"><img src="https://img.shields.io/twitter/follow/@mathabam?logo=twitter&style=for-the-badge" alt="@mathabam" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@mathabam" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mathabam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mathaba ismail" target="blank">
+<a href="https://www.linkedin.com/in/mathaba-ismail-79aaa810a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathaba ismail" height="30" width="40" /></a>
 <a href="https://kaggle.com/mathaba" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathaba" height="30" width="40" /></a>
