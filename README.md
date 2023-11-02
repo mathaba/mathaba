@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <hr>
-<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <br>
