@@ -47,11 +47,11 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mathaba&show_icons=true&locale=en" alt="mathaba" /></p>
 
-<br>
-<br>
+<br />
+<br />
 
-<br>
+<br />
 
-<hr>
+<hr />
 
 ![snake gif](https://github.com/mathaba/mathaba/blob/output/github-contribution-grid-snake.gif)
