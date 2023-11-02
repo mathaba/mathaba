@@ -43,6 +43,9 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathaba&show_icons=true&locale=en" alt="mathaba" /></p>
 
+<br>
+<hr>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathaba&" alt="mathaba" /></p>
 
 
