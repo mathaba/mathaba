@@ -12,24 +12,19 @@ mathaba/mathaba is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17790
-Fork on GitHub5222
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathaba" alt="mathaba" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@mathabam" target="blank"><img src="https://img.shields.io/twitter/follow/@mathabam?logo=twitter&style=for-the-badge" alt="@mathabam" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@mathabam" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mathabam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mathaba ismail" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathaba ismail" height="30" width="40" /></a>
-<a href="https://kaggle.com/mathaba ismail idris ismail" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathaba ismail idris ismail" height="30" width="40" /></a>
+<a href="https://kaggle.com/mathaba" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathaba" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
