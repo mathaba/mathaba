@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathaba" alt="mathaba" /></a> </p>
 
 <br>
-< style = "float:center" hr />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathaba&show_icons=true&locale=en&layout=compact" alt="mathaba" /></p>
 
