@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <hr>
 
-
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
