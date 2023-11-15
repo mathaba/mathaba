@@ -54,4 +54,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
-![snake gif](https://github.com/mathaba/mathaba/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mathaba/mathaba/blob/output/github-contribution-grid-snake.svg)
